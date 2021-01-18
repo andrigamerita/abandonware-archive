@@ -4,8 +4,11 @@ Archive of abandonware and other related stuff.
 ## What's here
 ### Omage/gifts free demos
 #### Design and architecture
+- [Ceramica Globo Catalogo Tecnico 2002 - CD Windows/Macintosh](https://github.com/andrigamerita/abandonware-archive/releases/tag/globo)
+- [Duravit Starck 3 Specification Manual - Windows/Macintosh CD](https://github.com/andrigamerita/abandonware-archive/releases/tag/starck_iii)
 - [ind.i.a. SPA - Industria Italiana Arteferro - 2002 Multimedia Catalogue CD](https://github.com/andrigamerita/abandonware-archive/releases/tag/india-SPA-2002)
 - [MANUALE di architettura del PAESAGGIO - Villegiardini CD](https://github.com/andrigamerita/abandonware-archive/releases/tag/villegiardini-cd)
+- [Mapei Global Infonet 10 2003 - Gift CDs](https://github.com/andrigamerita/abandonware-archive/releases/tag/mapei_global_infonet)
 #### Games
 - [Boog & Elliot: A caccia di amici (Open Season) - Playable demo, PC CD-ROM game](https://github.com/andrigamerita/abandonware-archive/releases/tag/openseason)
 
