@@ -1,7 +1,8 @@
 # abandonware-archive
-Archive of abandonware and other related stuff.
+Archive of abandonware and other related stuff, also some old software like drivers for a piece of harfdware.
 
 ## What's here
+
 ### Omage/gifts free demos
 #### Design and architecture
 - [Ceramica Globo Catalogo Tecnico 2002 - CD Windows/Macintosh](https://github.com/andrigamerita/abandonware-archive/releases/tag/globo)
@@ -11,6 +12,8 @@ Archive of abandonware and other related stuff.
 - [Mapei Global Infonet 10 2003 - Gift CDs](https://github.com/andrigamerita/abandonware-archive/releases/tag/mapei_global_infonet)
 #### Games
 - [Boog & Elliot: A caccia di amici (Open Season) - Playable demo, PC CD-ROM game](https://github.com/andrigamerita/abandonware-archive/releases/tag/openseason)
+#### Technology
+- [AREA Science Park: a world of research and innovation - Windows/Macintosh Multimedia CD](https://github.com/andrigamerita/abandonware-archive/releases/tag/area)
 
 ---
 
