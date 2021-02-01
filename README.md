@@ -1,5 +1,5 @@
 # abandonware-archive
-Archive of abandonware and other related stuff, also some old software like drivers for a piece of harfdware.
+Archive of abandonware and other related stuff, also some old software like drivers for a piece of hardware.
 
 ## What's here
 
